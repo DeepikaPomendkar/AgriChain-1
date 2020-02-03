@@ -35,4 +35,4 @@ For testing:
 3. Run server 
   a. Run the "python manage.py runserver" command after changing the root directory as "FoodSupp".
 
-# Demo Link : 
+# Demo Link : https://youtu.be/uvO2gwRGd6Y
